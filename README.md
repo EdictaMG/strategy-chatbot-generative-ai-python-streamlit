@@ -21,10 +21,8 @@ Here’s a screenshot of the deployed Streamlit app showing the user interface:
 ## Files
 
 ### Data
-- [`Complete-Guide-to-Strategic-Planning.pdf`](https://onstrategyhq.com/resources/complete-guide-to-strategic-planning/)  
-  Strategy resource file from *On Strategy*
-- [`how-to-formulate-successful-business-strategy.pdf`](https://online.hbs.edu/blog/post/how-to-formulate-a-successful-business-strategy)  
-  Strategy resource file from *Harvard Business School*
+- `Complete-Guide-to-Strategic-Planning.pdf`: Strategy resource file from [*On Strategy*](https://onstrategyhq.com/complete-strategy-guide/) 
+- `how-to-formulate-successful-business-strategy.pdf`: Strategy resource file from [*Harvard Business School*](https://info.email.online.hbs.edu/strategy-formulation-ebook)
 
 ### Scripts
 - `StrategyBot_ChatBot.py`: Main Python script to run the Streamlit app
