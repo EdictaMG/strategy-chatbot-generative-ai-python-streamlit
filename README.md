@@ -21,8 +21,10 @@ Here’s a screenshot of the deployed Streamlit app showing the user interface:
 ## Files
 
 ### Data
-- `Complete-Guide-to-Strategic-Planning.pdf`: Strategy guide from *OnStrategy*
-- `how-to-formulate-successful-business-strategy.pdf`: Strategy guide from *Harvard Business School*
+- [`Complete-Guide-to-Strategic-Planning.pdf`](https://onstrategyhq.com/resources/complete-guide-to-strategic-planning/)  
+  Strategy resource file from *On Strategy*
+- [`how-to-formulate-successful-business-strategy.pdf`](https://online.hbs.edu/blog/post/how-to-formulate-a-successful-business-strategy)  
+  Strategy resource file from *Harvard Business School*
 
 ### Scripts
 - `StrategyBot_ChatBot.py`: Main Python script to run the Streamlit app
@@ -35,8 +37,6 @@ Here’s a screenshot of the deployed Streamlit app showing the user interface:
 
 ## Requirements
 To run this app, you'll need a **Hugging Face account** and an **API token**. You can create one at [huggingface.co](https://huggingface.co) and generate a token.
-
-Make sure to insert your Hugging Face token in `StrategyBot_ChatBot.py` as indicated in the script.
 
 ## Using the Files
 1. Clone or download this repository.
