@@ -34,7 +34,7 @@ Here’s a screenshot of the deployed Streamlit app showing the user interface:
 - `StrategyBot_preview.png`: Screenshot of the deployed chatbot interface  
 
 ## Requirements
-To run this app, you'll need a **Hugging Face account** and an **API token**. You can create one at [huggingface.co](https://huggingface.co) and generate a token from your [settings page](https://huggingface.co/settings/tokens).
+To run this app, you'll need a **Hugging Face account** and an **API token**. You can create one at [huggingface.co](https://huggingface.co) and generate a token.
 
 Make sure to insert your Hugging Face token in `StrategyBot_ChatBot.py` as indicated in the script.
 
